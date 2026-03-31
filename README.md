@@ -1,4 +1,4 @@
-# Audio-Description
+# AI-Generated-Audio-Description
 
 # 刺客聶隱娘：基於 GPT-4o 之電影口述影像自動生成研究
 
